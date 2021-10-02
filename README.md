@@ -1,0 +1,8 @@
+- Hi, I’m @chrismkoop
+- I’m interested in RTL design and small projects
+- I’m currently learning Verilog and Python
+- I’m looking to collaborate on open source logic design
+- How to reach me:
+  - Personal: chrismkoop@gmail.com
+  - School:   chris.koop@oit.edu
+  - Work:     christopher.koop@intel.com
