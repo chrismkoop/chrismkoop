@@ -5,4 +5,3 @@
 - How to reach me:
   - Personal: chrismkoop@gmail.com
   - School:   chris.koop@oit.edu
-  - Work:     christopher.koop@intel.com
